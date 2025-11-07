@@ -1,2 +1,0 @@
-# LoginAllSecurities
-LoginAllSecurities
